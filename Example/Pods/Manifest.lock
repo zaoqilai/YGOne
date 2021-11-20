@@ -1,0 +1,16 @@
+PODS:
+  - YGOne (0.1.0)
+
+DEPENDENCIES:
+  - YGOne (from `../`)
+
+EXTERNAL SOURCES:
+  YGOne:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  YGOne: cbf9debaa3a8f8ecc4ee98e37bf32f3ba81fa034
+
+PODFILE CHECKSUM: d453401fb573c23903cbf1da649ef64cacc02379
+
+COCOAPODS: 1.9.3

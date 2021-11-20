@@ -1,0 +1,6 @@
+framework module YGOne {
+  umbrella header "YGOne-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "YGOne",
+  "version": "0.1.0",
+  "summary": "A short description of YGOne.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1170826771@qq.com/YGOne",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1170826771@qq.com": "1170826771@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/1170826771@qq.com/YGOne.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "YGOne/Classes/**/*"
+}
