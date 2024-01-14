@@ -18,6 +18,7 @@
 {
     [super viewDidLoad];
     NSLog(@"测试代码合并");
+    11111
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
